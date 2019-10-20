@@ -1,0 +1,5 @@
+num =[400]
+dnum = [1 12 400]
+system = tf(num,dnum)
+omegea = sqrt (dnum(3))
+zeta = dnum(2)/2*omega(2)
